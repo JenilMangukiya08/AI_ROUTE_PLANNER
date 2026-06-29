@@ -43,12 +43,13 @@ WorkFlow :-
 	        |  
       ───────────────────
      │                   │
-     ▼                   ▼         
- Traffic agent        Weather agent
-        ▼                ▼   
-        ───────────────────          
-                │
-                ▼
+     ▼                   ▼   
+Traffic agent        Weather agent
+
+     	▼                ▼   
+    	───────────────────          
+            	│
+				▼
            Decision agent
                 │
                 ▼
